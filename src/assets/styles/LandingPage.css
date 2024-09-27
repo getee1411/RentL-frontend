@@ -1,0 +1,5 @@
+body {
+    background: -webkit-gradient(linear, 0 1%, 0 71%, from(#F04438), to(white));
+    height: 100vh; /* Makes sure the gradient covers the whole viewport */
+    margin: 0; /* Removes default margin */
+}
